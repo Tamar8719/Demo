@@ -1,5 +1,5 @@
 const a = ()=>{
-    console.log("this line will make conflict by mergin");
+    console.log("this line will make conflict by mergin...");
     return 1
 }
 
