@@ -12,4 +12,8 @@ const c = ()=>{
     alert("hello i'm c function")
 }
 
+const d = ()=>{
+    return "try to make conflict when let the pull request"
+}
+
 const g = 3;
