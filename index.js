@@ -8,4 +8,8 @@ const b = ()=>{
 }
 console.log("hello world!!");
 
+const c = ()=>{
+    alert("hello i'm c function")
+}
+
 const g = 3;
