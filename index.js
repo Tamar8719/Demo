@@ -8,4 +8,8 @@ const b = ()=>{
 }
 console.log("hello world!!");
 
+const c = ()=>{
+    return console.log("aaa");
+    
+}
 const g = 3;
